@@ -1,0 +1,13 @@
+/main/.env
+/.pytest_cache
+/venv/
+
+*.pyc
+*.egg-info
+
+# Если вы программируете на Mac
+.DS_Store
+
+*.iml
+
+/.idea
